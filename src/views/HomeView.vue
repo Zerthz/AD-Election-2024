@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from "../components/TheWelcome.vue";
+import ElectionOverview from "components/ElectionOverview.vue";
 </script>
 
 <template>
 	<main>
-		<TheWelcome />
+		<ElectionOverview />
 	</main>
 </template>
