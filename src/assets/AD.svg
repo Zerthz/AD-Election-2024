@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="70.535454mm"
+   height="42.494606mm"
+   viewBox="0 0 70.535454 42.494606"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="AD.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72426347"
+     inkscape:cx="133.23881"
+     inkscape:cy="80.771712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.850004,-127.26458)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.8904px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';mix-blend-mode:normal;fill:#ffe5e5;fill-opacity:1;stroke-width:0.259846"
+       x="102.2239"
+       y="147.28047"
+       id="text9"
+       transform="matrix(0.99473803,0.20503341,-0.21685922,0.96059122,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="fill:#ffe5e5;fill-opacity:1;stroke-width:0.259846"
+         x="102.2239"
+         y="147.28047">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.0998px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';mix-blend-mode:normal;fill:#ffe5e5;fill-opacity:1;stroke-width:0.281769"
+       x="73.514992"
+       y="185.24741"
+       id="text10"
+       transform="matrix(0.98647363,-0.1685049,0.16968708,0.98472667,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="fill:#ffe5e5;fill-opacity:1;stroke-width:0.281769"
+         x="73.514992"
+         y="185.24741">D</tspan></text>
+  </g>
+</svg>
